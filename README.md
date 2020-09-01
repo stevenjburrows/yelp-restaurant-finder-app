@@ -19,3 +19,11 @@ when you click on the restaurant it will show you more images from that restaura
 now I searched for a burger and get the following
 
 ![App showing a list of burger restaurants in San Jose](/images/yelp3.png) ![a page showing 3 images from a restaurant that I clicked on](/images/yelp4.png)
+
+## Instructions
+
+Once you have downloaded the code from GitHub run
+`npm install`
+then type
+`npm start`
+to start the app. From there you can run on an Android or IOS simulator
