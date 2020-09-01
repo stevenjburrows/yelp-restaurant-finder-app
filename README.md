@@ -12,7 +12,11 @@ when you click on the restaurant it will show you more images from that restaura
 
 ## Screenshots and video
 
-<iframe src="https://player.vimeo.com/video/453584069" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://player.vimeo.com/video/453584069" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ![home page of my yelp app in an iPhone 11 ](/images/yelp1.png) ![iPhone showing 3 images from a restaurant after clicking on one ](/images/yelp2.png)
 
